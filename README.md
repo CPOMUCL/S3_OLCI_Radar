@@ -5,6 +5,7 @@ Building on previous work in collaboration with Postdocs, PhD and master student
 - Isobel Lawrence
 - Sanggyun Lee
 - Dorsa Shirazi
+- etc...
 
 Aim: combine Sentinel3 optical imagery from OLCI and radar altimetry data to retrieve surface information over sea ice. 
 
